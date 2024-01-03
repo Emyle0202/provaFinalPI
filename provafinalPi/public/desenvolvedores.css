@@ -1,0 +1,16 @@
+body {
+      background-color: #20B2AA; 
+    }
+
+    form {
+      background-color: #20B2AA; 
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+
+    form label,
+    form input,
+    form small {
+      color: white;
+    }

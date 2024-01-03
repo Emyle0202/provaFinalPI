@@ -1,0 +1,16 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .menu {
+      background-color: #48D1CC;
+      padding: 10px;
+      text-align: center;
+      color: white;
+    }
+
+    .container-fluid {
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
